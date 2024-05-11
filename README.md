@@ -1,3 +1,3 @@
 # My_First_Genai
 
-Testando Gemini no Google com um Chat criado na Imersão Alura IA.
+Testando Gemini no Google criando um Chat com Pyton.
